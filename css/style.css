@@ -1,0 +1,173 @@
+body {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  font-size: 100%;
+}
+
+h1 {
+  color: #11999e;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  padding-top: 3.125rem;
+  margin-bottom: 0;
+  font-weight:bold;
+}
+
+h2, h3 {
+  color: #2b2e4a;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 1.5625rem;
+  font-weight:bold;
+}
+
+p, h4 {
+  font-family: 'Lexend Mega', sans-serif;
+}
+
+.top {
+  background-color: #ccf2f4;
+  position: relative;
+  padding-top: 6.25rem;
+}
+
+.profile {
+  background-color: #ffeebb;
+  padding-top: 1.875rem;
+}
+
+.skills {
+  padding-top: 2.5rem;
+}
+
+.top-cloud {
+  margin-top: 0;
+  position: absolute;
+  height: 12.5rem;
+  width: 15.625rem;
+  right: 18.75rem;
+  top: 0.0625rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  height: 200px;
+  width: 250px;
+  left: 300px;
+  bottom: 250px;
+}
+
+.skillpic {
+  display: block;
+  height: 60px;
+  width: 60px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skillgif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 250px;
+}
+
+.mountain {
+  height: 348px;
+}
+
+table {
+  table-layout: fixed;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 5%;
+}
+
+.footer {
+  margin: 10px 50px;
+  height: 40px;
+  width: 40px;
+}
+
+.sp {
+  padding-right: 130px;
+  ;
+}
+
+.lifecycle {
+  text-align: left;
+  padding-left: 47%;
+}
+
+.while {
+  color: blue;
+}
+
+.alive {
+  color: green;
+}
+
+.edupics {
+  height: 110px;
+  width: 110px;
+}
+
+.we {
+  height: 80px;
+  width: 80px;
+}
+
+.workexperience td {
+  text-align: left;
+  font-size: 0.9375rem;
+}
+
+.work {
+  height: 70px;
+  width: 70px;
+  display: inline-block;
+  position: absolute;
+  padding-left: 250px;
+  padding-top: 10px;
+}
+
+.worktitle {
+  display: inline-block;
+}
+
+.pro {
+  margin-bottom: 0;
+}
+
+.education, .skills {
+  background-color: #ccf2f4;
+  position: relative;
+  padding-top: 20px;
+}
+
+.middle {
+  background-color: #ffeebb;
+}
+
+.bottom {
+  background-color: #ffeebb;
+}
+.copyright{
+  margin: 0 0;
+}
+a{
+  color:#e84545;
+}
